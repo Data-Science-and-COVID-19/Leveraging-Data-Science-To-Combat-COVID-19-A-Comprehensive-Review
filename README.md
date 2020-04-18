@@ -8,7 +8,7 @@ COVID-19, an infectious disease caused by the SARS-CoV-2 virus, was declared a p
 
 **3. [Prominent COVID-19 Community Resources](https://github.com/Data-Science-and-COVID-19/Leveraging-Data-Science-To-Combat-COVID-19-A-Comprehensive-Review/blob/master/resources.md)**
 
-**4. [Summary of data science work related to COVID-19](https://github.com/Data-Science-and-COVID-19/Leveraging-Data-Science-To-Combat-COVID-19-A-Comprehensive-Review/blob/master/review.md)**
+**4. Review of data science work related to COVID-19**
+- [Medical Image Analysis](https://github.com/Data-Science-and-COVID-19/Leveraging-Data-Science-To-Combat-COVID-19-A-Comprehensive-Review/blob/master/medical.md)
 
-
-For more details, reffer to our paper: [Leveraging Data Science To Combat COVID-19: A Comprehensive Review](https://www.researchgate.net/publication/340687152_Leveraging_Data_Science_To_Combat_COVID-19_A_Comprehensive_Review)
+For more details, refer to our paper: [Leveraging Data Science To Combat COVID-19: A Comprehensive Review](https://www.researchgate.net/publication/340687152_Leveraging_Data_Science_To_Combat_COVID-19_A_Comprehensive_Review)
