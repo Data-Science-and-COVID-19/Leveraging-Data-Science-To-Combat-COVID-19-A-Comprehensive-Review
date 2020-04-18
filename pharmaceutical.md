@@ -3,7 +3,8 @@
 
 
 
-**Review of Pharmaceutical Research**
+**Review of Pharmaceutical Research.**  _This Table is a part of our paper. For more details, refer to our paper: [Leveraging Data Science To Combat COVID-19: A Comprehensive Review](https://www.researchgate.net/publication/340687152_Leveraging_Data_Science_To_Combat_COVID-19_A_Comprehensive_Review)_
+
 | Authors |Data Type | Methodology|
 | :---  | :--- | :--- |
 [Zhavoronkov et al.](https://chemrxiv.org/ndownloader/articles/11829102/versions/2/export_pdf) [1]|Crystal structure,homology modelling,and co-crystallisedligands|The authors utilised generative models togenerate the molecules for the 3C-like protease that can actas potential inhibitors for SARS-CoV-2.|
