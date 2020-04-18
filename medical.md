@@ -19,9 +19,8 @@
 [Narin et al.](https://arxiv.org/pdf/2003.10849) [15]|Chest X-rays||Different CNN-based models are used to detect COVID-19pneumonia infected patients chest X-rays|Different CNN-based models are used to detect COVID-19pneumonia infected patients chest X-rays|
 [Prabira et al.](https://www.preprints.org/manuscript/202003.0300/download/final_file) [16]|Chest X-rays|Used DNN to extract meaningful information from X-raysand SVM for classification of corona affected X-rays.|
 [Farooq et al.](https://arxiv.org/pdf/2003.14395) [17]|Chest X-rays|Devised multi-stage fine-tuning scheme to improveperformance and training time.|
-[Abbas et al.](https://arxiv.org/pdf/2003.13815) [18]|Chest X-rays|Expolited transfer learning and used previously developed CNN,called Decompose, Transfer, and Compose (DeTraC)|
-
-
+[Abbas et al.](https://arxiv.org/pdf/2003.13815) [18]|Chest X-rays|Expolited transfer learning and used previously developed CNN, called Decompose, Transfer, and Compose (DeTraC)|
+[Chowdhury et al.](https://arxiv.org/pdf/2003.13145) [19]|Chest X-rays|An image argumentation technique has beenproposed to create the chest X-ray images for training|
 
 
 **References**:
@@ -63,6 +62,7 @@
 
 **[18]** Abbas, Asmaa, Mohammed M. Abdelsamea, and Mohamed Medhat Gaber. "Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network." arXiv preprint arXiv:2003.13815 (2020).
 
+**[19]** Chowdhury, Muhammad EH, et al. "Can AI help in screening Viral and COVID-19 pneumonia?." arXiv preprint arXiv:2003.13145 (2020).
 
 
 
