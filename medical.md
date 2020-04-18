@@ -4,7 +4,7 @@
 | :---  | :--- | :--- |
 [Wang et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.14.20023028.full.pdf)[1]|Chest CT scans|InceptionNet is used to detect the anomalies relatedto COVID-19 infection in lungs CT scan.|
 [Xu et al.](https://arxiv.org/pdf/2002.09334) [2]|Chest CT scans|3-D CNN models are used to classify the COVID-19infected regions in CT scans.|
-[Chen et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf)|Chest CT scans|UNet++ architecture has been used to identifythe suspicious areas in CT scans.|
+[Chen et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf)[3]|Chest CT scans|UNet++ architecture has been used to identifythe suspicious areas in CT scans.|
 
 
 
