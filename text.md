@@ -1,4 +1,4 @@
-****Please note that This table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title.**
+***-Please note that This table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title.**
 
 
 **Review of Text data mining Research**
@@ -32,4 +32,4 @@
 **[6]** Stephany, Fabian, et al. "The CoRisk-Index: A data-mining approach to identify industry-specific risk assessments related to COVID-19 in real-time." arXiv preprint arXiv:2003.12432 (2020).
 
 
-****Please note that This table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title.**
+****_Please note that This table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title.**
