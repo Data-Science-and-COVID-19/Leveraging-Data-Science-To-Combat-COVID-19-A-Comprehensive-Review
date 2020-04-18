@@ -1,4 +1,4 @@
-Please note, this table is being populated. If anyone know about any other important data science related resource, please send us the details.
+***_Please note, this table is being populated. If anyone know about any other important data science related resource, please send us the details._**
 
 
 
