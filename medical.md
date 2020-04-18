@@ -2,7 +2,7 @@
 
 | Authors |Data Type | Methodology|
 | :---  | :--- | :--- |
-Wang et al.[1](https://www.medrxiv.org/content/medrxiv/early/2020/02/17/2020.02.14.20023028.full.pdf)|Chest CT scans|InceptionNet is used to detect the anomalies relatedto COVID-19 infection in lungs CT scan.|
+Wang et al.[1]|Chest CT scans|InceptionNet is used to detect the anomalies relatedto COVID-19 infection in lungs CT scan.|
 
 
 
