@@ -1,4 +1,6 @@
-**Table 1: A List of Prominent COVID-19 Datasets**
+***_Please note, this table is being populated. If anyone interested for their data to be enlisted in this community resource, please send us your paper title_.**
+
+**List of Prominent COVID-19 Datasets.** 
 
 
 | Dataset Name | Country/Region | Modality | Attributes|
