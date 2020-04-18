@@ -17,7 +17,9 @@
 [Ezz et al.](https://arxiv.org/pdf/2003.11055) [13]|Chest X-rays|Introduced COVIDX-Net, which includes seven different CNNmodels for classification of COVID-19 infected X-rays.|
 [Linda et al.](https://arxiv.org/pdf/2003.09871) [14]|Chest X-rays|Open source solution (COVID-Net) using Resnet, which detects COVID-19.| 
 [Narin et al.](https://arxiv.org/pdf/2003.10849) [15]|Chest X-rays||Different CNN-based models are used to detect COVID-19pneumonia infected patients chest X-rays|Different CNN-based models are used to detect COVID-19pneumonia infected patients chest X-rays|
-[Prabira et al.](https://arxiv.org/pdf/2003.14395) [16]|Chest X-rays|Used DNN to extract meaningful information from X-raysand SVM for classification of corona affected X-rays.|
+[Prabira et al.](https://www.preprints.org/manuscript/202003.0300/download/final_file) [16]|Chest X-rays|Used DNN to extract meaningful information from X-raysand SVM for classification of corona affected X-rays.|
+[Farooq et al.](https://arxiv.org/pdf/2003.14395) [17]|Chest X-rays|Devised multi-stage fine-tuning scheme to improveperformance and training time.|
+
 
 
 
@@ -55,7 +57,10 @@
 
 **[15]** A. Narin, C. Kaya, and Z. Pamuk, “Automatic detection of Coronavirusdisease (COVID-19) using x-ray images and deep convolutional neuralnetworks,”arXiv preprint arXiv:2003.10849, 2020.
 
-**[16]** Farooq, Muhammad, and Abdul Hafeez. "COVID-ResNet: A Deep Learning Framework for Screening of COVID19 from Radiographs." arXiv preprint arXiv:2003.14395 (2020).
+**[16]** Sethy, Prabira Kumar, and Santi Kumari Behera. "Detection of coronavirus Disease (COVID-19) based on Deep Features." (2020).
+
+
+**[17]** Farooq, Muhammad, and Abdul Hafeez. "COVID-ResNet: A Deep Learning Framework for Screening of COVID19 from Radiographs." arXiv preprint arXiv:2003.14395 (2020).
 
 
 
