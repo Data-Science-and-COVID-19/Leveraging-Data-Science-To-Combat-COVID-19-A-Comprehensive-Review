@@ -12,6 +12,9 @@
 [Wang et al.](https://www.medrxiv.org/content/medrxiv/early/2020/03/26/2020.03.24.20042317.full.pdf) [8]|Chest CT scans|Pre-trained DNN has been usedto improve detection of COVID-19 in lungs scans.|
 [Mucahid et al.](https://arxiv.org/pdf/2003.09424) [9]|Chest CT scans|GLCM, LDP, GLRLM, GLSZM, and DWT algorithms are usedas feature extraction and SVM for classification.|
 [Zhao et al.](https://arxiv.org/pdf/2003.13865) [10]|Chest CT scans|Developed a public dataset and employed CNNfor COVID-19 detection on chest CT scans.|
+[Gozes et al.](https://arxiv.org/pdf/2004.02640) [11]|Chest CT scans|Used UNet for lung segmentation, ResNet for 2D slice classificationand fine grain localisation for detection of infected regions in lungs.|
+
+
 
 
 
@@ -38,6 +41,7 @@ References:
 
 **[10]** Zhao, Jinyu, et al. "COVID-CT-Dataset: A CT Scan Dataset about COVID-19." arXiv preprint arXiv:2003.13865 (2020).
 
+**[11]** Gozes, Ophir, et al. "Coronavirus Detection and Analysis on Chest CT with Deep Learning." arXiv preprint arXiv:2004.02640 (2020).
 
 
 
