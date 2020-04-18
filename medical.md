@@ -21,7 +21,9 @@
 [Farooq et al.](https://arxiv.org/pdf/2003.14395) [17]|Chest X-rays|Devised multi-stage fine-tuning scheme to improveperformance and training time.|
 [Abbas et al.](https://arxiv.org/pdf/2003.13815) [18]|Chest X-rays|Expolited transfer learning and used previously developed CNN, called Decompose, Transfer, and Compose (DeTraC)|
 [Chowdhury et al.](https://arxiv.org/pdf/2003.13145) [19]|Chest X-rays|An image argumentation technique has beenproposed to create the chest X-ray images for training|
-
+[Alqudah et al.](https://www.researchgate.net/profile/Ali_Alqudah2/publication/340232556_Covid-2019_Detection_Using_X-Ray_Images_And_Artificial_Intelligence_Hybrid_Systems/links/5e7df54792851caef4a25492/Covid-2019-Detection-Using-X-Ray-Images-And-Artificial-Intelligence-Hybrid-Systems.pdf) [20]|Chest X-rays|Applied various ML techniques forclassification of COVID-19 infected X-rays.|
+[Goshal et al.](https://arxiv.org/pdf/2003.10769) [21]|Chest X-rays|Investigated the significance of dropping weights Bayesian ConvolutionalNeural Networks (BCNN) for COVID-19 detection.|
+[Fatima et al.](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/587/IJAER200304.pdf?sequence=2&isAllowed=y) [22]|Chest X-rays|Trained CNN for COVID-10 detection in X-rays.|
 
 **References**:
 
@@ -63,6 +65,12 @@
 **[18]** Abbas, Asmaa, Mohammed M. Abdelsamea, and Mohamed Medhat Gaber. "Classification of COVID-19 in chest X-ray images using DeTraC deep convolutional neural network." arXiv preprint arXiv:2003.13815 (2020).
 
 **[19]** Chowdhury, Muhammad EH, et al. "Can AI help in screening Viral and COVID-19 pneumonia?." arXiv preprint arXiv:2003.13145 (2020).
+
+**[20]** Alqudah, Ali Mohammad, et al. "COVID-2019 DETECTION USING X-RAY IMAGES AND ARTIFICIAL INTELLIGENCE HYBRID SYSTEMS."
+
+**[21]** Ghoshal, Biraja, and Allan Tucker. "Estimating uncertainty and interpretability in deep learning for coronavirus (COVID-19) detection." arXiv preprint arXiv:2003.10769 (2020).
+
+**[22]** Salman, Fatima M., et al. "COVID-19 Detection using Artificial Intelligence." (2020).
 
 
 
