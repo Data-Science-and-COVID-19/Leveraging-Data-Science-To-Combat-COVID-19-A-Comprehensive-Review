@@ -1,4 +1,4 @@
-***_Please note, this table is being populated. If anyone interested for their data to be enlisted in this community resource, please send us your paper title_.**
+***_Please note, this table is being populated. If anyone interested for their data to be enlisted in this community resource, please send us the details_.**
 
 **List of Prominent COVID-19 Datasets.** 
 
