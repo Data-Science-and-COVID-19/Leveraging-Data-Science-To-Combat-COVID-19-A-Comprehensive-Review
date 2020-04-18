@@ -1,3 +1,8 @@
+***_Please note, this table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title_.**
+
+
+
+
 **Review of Pharmaceutical Research**
 | Authors |Data Type | Methodology|
 | :---  | :--- | :--- |
@@ -7,4 +12,5 @@
 
 
 **References**
+
 **[1]** Zhavoronkov, Alex, et al. "Potential COVID-2019 3C-like protease inhibitors designed using generative deep learning approaches." Insilico Medicine Hong Kong Ltd A 307 (2020): E1.
