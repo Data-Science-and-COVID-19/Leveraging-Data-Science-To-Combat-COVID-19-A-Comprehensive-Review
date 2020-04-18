@@ -24,6 +24,7 @@
 [Alqudah et al.](https://www.researchgate.net/profile/Ali_Alqudah2/publication/340232556_Covid-2019_Detection_Using_X-Ray_Images_And_Artificial_Intelligence_Hybrid_Systems/links/5e7df54792851caef4a25492/Covid-2019-Detection-Using-X-Ray-Images-And-Artificial-Intelligence-Hybrid-Systems.pdf) [20]|Chest X-rays|Applied various ML techniques forclassification of COVID-19 infected X-rays.|
 [Goshal et al.](https://arxiv.org/pdf/2003.10769) [21]|Chest X-rays|Investigated the significance of dropping weights Bayesian ConvolutionalNeural Networks (BCNN) for COVID-19 detection.|
 [Fatima et al.](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/587/IJAER200304.pdf?sequence=2&isAllowed=y) [22]|Chest X-rays|Trained CNN for COVID-10 detection in X-rays.|
+[Xin et al.](https://arxiv.org/pdf/2004.03042) [23]|Chest X-rays|Used DenseNet architecture for COVID-10 detection in X-rays.|
 
 **References**:
 
@@ -71,6 +72,8 @@
 **[21]** Ghoshal, Biraja, and Allan Tucker. "Estimating uncertainty and interpretability in deep learning for coronavirus (COVID-19) detection." arXiv preprint arXiv:2003.10769 (2020).
 
 **[22]** Salman, Fatima M., et al. "COVID-19 Detection using Artificial Intelligence." (2020).
+
+**[23]** Li, Xin, and Dongxiao Zhu. "COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images." arXiv preprint arXiv:2004.03042 (2020).
 
 
 
