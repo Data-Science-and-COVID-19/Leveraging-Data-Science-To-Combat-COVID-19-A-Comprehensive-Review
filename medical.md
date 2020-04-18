@@ -16,7 +16,8 @@
 [Asnaui et al.](https://arxiv.org/pdf/2003.14363) [12]|Chest X-raysand CT images|Various CNN-based models used for binary classification inCOVID-19 detection on pneumonia affected X-ray and CT images.|
 [Ezz et al.](https://arxiv.org/pdf/2003.11055) [13]|Chest X-rays|Introduced COVIDX-Net, which includes seven different CNNmodels for classification of COVID-19 infected X-rays.|
 [Linda et al.](https://arxiv.org/pdf/2003.09871) [14]|Chest X-rays|Open source solution (COVID-Net) using Resnet, which detects COVID-19.| 
-[Narin et al.](https://arxiv.org/pdf/2003.10849) [15]|Chest X-rays|Different CNN-based models are used to detect COVID-19pneumonia infected patients chest X-rays|
+[Narin et al.](https://arxiv.org/pdf/2003.10849) [15]|Chest X-rays||Different CNN-based models are used to detect COVID-19pneumonia infected patients chest X-rays|
+[Prabira et al.](https://arxiv.org/pdf/2003.14395) [16]|Chest X-rays|Used DNN to extract meaningful information from X-raysand SVM for classification of corona affected X-rays.|
 
 
 
@@ -53,6 +54,8 @@
 **[14]** Wang, Linda, and Alexander Wong. "COVID-Net: A tailored deep convolutional neural network design for detection of COVID-19 cases from chest radiography images." arXiv preprint arXiv:2003.09871 (2020).
 
 **[15]** A. Narin, C. Kaya, and Z. Pamuk, “Automatic detection of Coronavirusdisease (COVID-19) using x-ray images and deep convolutional neuralnetworks,”arXiv preprint arXiv:2003.10849, 2020.
+
+**[16]** Farooq, Muhammad, and Abdul Hafeez. "COVID-ResNet: A Deep Learning Framework for Screening of COVID19 from Radiographs." arXiv preprint arXiv:2003.14395 (2020).
 
 
 
