@@ -11,7 +11,7 @@
 [Zhang et al.](https://arxiv.org/pdf/2003.12338) [7]|Chest CT scans|DenseNet like architecture is used for classification task to detect COVID-19 infection.|
 [Wang et al.](https://www.medrxiv.org/content/medrxiv/early/2020/03/26/2020.03.24.20042317.full.pdf) [8]|Chest CT scans|Pre-trained DNN has been usedto improve detection of COVID-19 in lungs scans.|
 [Mucahid et al.](https://arxiv.org/pdf/2003.09424) [9]|Chest CT scans|GLCM, LDP, GLRLM, GLSZM, and DWT algorithms are usedas feature extraction and SVM for classification.|
-
+[Zhao et al.](https://arxiv.org/pdf/2003.13865) [10]|Chest CT scans|Developed a public dataset and employed CNNfor COVID-19 detection on chest CT scans.|
 
 
 
@@ -35,6 +35,8 @@ References:
 **[8]** Wang, Shuo, et al. "A Fully Automatic Deep Learning System for COVID-19 Diagnostic and Prognostic Analysis." medRxiv (2020).
 
 **[9]** Barstugan, Mucahid, Umut Ozkaya, and Saban Ozturk. "Coronavirus (COVID-19) Classification using CT Images by Machine Learning Methods." arXiv preprint arXiv:2003.09424 (2020).
+
+**[10]** Zhao, Jinyu, et al. "COVID-CT-Dataset: A CT Scan Dataset about COVID-19." arXiv preprint arXiv:2003.13865 (2020).
 
 
 
