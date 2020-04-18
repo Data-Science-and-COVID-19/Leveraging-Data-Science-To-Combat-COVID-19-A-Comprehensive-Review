@@ -7,7 +7,8 @@
 [Chen et al.](https://www.medrxiv.org/content/medrxiv/early/2020/02/26/2020.02.25.20021568.full.pdf)[3]|Chest CT scans|UNet++ architecture has been used to identifythe suspicious areas in CT scans.|
 [Gozes et al.](https://arxiv.org/pdf/2003.05037)[4]|Chest CT scans|2D and 3D CNNs models have been simultaneously employedto quantify the infection in the lungs of COVID19 patients.|
 [Lin et al.](https://pubs.rsna.org/doi/pdf/10.1148/radiol.2020200905) [5]|Chest CT scans|COVNet; CNN-based model is developed to detectCOVID-19 in chest CT scans.|
-[Shan et al.](https://arxiv.org/pdf/2003.04655) [6]|Chest CT scans|DL-based segmentation system is developedto quantify infected ROIs lung CT scans|
+[Shan et al.](https://arxiv.org/pdf/2003.04655) [6]|Chest CT scans|DL-based segmentation system is developed to quantify infected ROIs in lung CT scans|
+[Zhang et al.](https://arxiv.org/pdf/2003.12338) [7]|Chest CT scans|DenseNet like architecture is used for classification task to detect COVID-19 infection.|
 
 
 
@@ -28,6 +29,8 @@ References:
 **[5]** Li, Lin, et al. "Artificial intelligence distinguishes covid-19 from community acquired pneumonia on chest ct." Radiology (2020)
 
 **[6]** Shan+, Fei, et al. "Lung infection quantification of covid-19 in ct images with deep learning." arXiv preprint arXiv:2003.04655 (2020).
+
+**[7]** Zhang, Jianpeng, et al. "COVID-19 Screening on Chest X-ray Images Using Deep Learning based Anomaly Detection." arXiv preprint arXiv:2003.12338 (2020).
 
 
 
