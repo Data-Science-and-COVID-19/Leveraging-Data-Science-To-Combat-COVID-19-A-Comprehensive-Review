@@ -26,6 +26,7 @@
 [Fatima et al.](http://dstore.alazhar.edu.ps/xmlui/bitstream/handle/123456789/587/IJAER200304.pdf?sequence=2&isAllowed=y) [22]|Chest X-rays|Trained CNN for COVID-10 detection in X-rays.|
 [Xin et al.](https://arxiv.org/pdf/2004.03042) [23]|Chest X-rays|Used DenseNet architecture for COVID-10 detection in X-rays.|
 [Karim et al.](https://arxiv.org/pdf/2004.04582) [24]|Chest X-rays|Used DNN based ensemble method for X-ray classification.|
+[Ioannis et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7118364/) [25]|Chest X-rays|Transfer learning is used for extracting patterns from common bacterialpneumonia patients X-rays using CNN to detect COVID-19|
 
 
 
@@ -100,6 +101,8 @@
 **[23]** Li, Xin, and Dongxiao Zhu. "COVID-Xpert: An AI Powered Population Screening of COVID-19 Cases Using Chest Radiography Images." arXiv preprint arXiv:2004.03042 (2020).
 
 **[24]** Karim, Md, et al. "DeepCOVIDExplainer: Explainable COVID-19 Predictions Based on Chest X-ray Images." arXiv preprint arXiv:2004.04582 (2020).
+
+**[25]** Apostolopoulos, Ioannis D., and Tzani A. Mpesiana. "Covid-19: automatic detection from x-ray images utilizing transfer learning with convolutional neural networks." Physical and Engineering Sciences in Medicine (2020)
 
 
 
