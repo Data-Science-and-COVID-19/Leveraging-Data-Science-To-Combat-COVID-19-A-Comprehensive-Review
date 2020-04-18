@@ -11,8 +11,8 @@
 [Beck et al.](https://www.sciencedirect.com/science/article/pii/S2001037020300490) [3]|SMILES strings and amino acids sequences|Authors utilise a pre-trained drug-target interaction modelto predict commercially available antiviral drugs for COVID-19.|
 [Kim et al.](https://chemrxiv.org/articles/Advanced_Bioinformatics_Rapidly_Identifies_Existing_Therapeutics_for_Patients_with_Coronavirus_Disease_-_2019_COVID-19_/12037416/files/22121172.pdf) [4]|SMILES strings and amino acids sequences|A binding affinity prediction platform is usedto detect available FDA approved drugs that can blockSARS-CoV-2 from entering cells.|
 [Richardson et al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7137985/) [5]|Biomedical data|Authors use BenevolentAI to search for approveddrugs that can block the viral infection process.|
-
-
+[Stebbing et al.](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30132-8/fulltext?rss=yes&utm_campaign=update-laninf&utm_source=hs_email&utm_medium=email&utm_content=84189611&_hsenc=p2ANqtz-8RghsAw_DEaPsvoGNQ2wQmlzBKQTBUp_wCgamJlQyjRnn7h99GsA7d1SndeGc-o6C1nWe9XWHrj5hGpuW9AE3aEV6bVg&_hsmi=84189611) [6]|Biomedical data|This study examines approved antiviral and anti-inflammatorytreatments for COVID-19.|
+[Vijil et al.](https://arxiv.org/pdf/2004.01215) [7]|SMILES|Authors uses generative models to design drug candidates specific to agiven target protein sequence. They release around 3000 novel COVID-19 drug candidates.|
 
 
 
@@ -29,4 +29,7 @@
 
 **[5]** Richardson, Peter, et al. "Baricitinib as potential treatment for 2019-nCoV acute respiratory disease." Lancet (London, England) 395.10223 (2020): e30.
 
+**[6]** Stebbing, Justin, et al. "COVID-19: combining antiviral and anti-inflammatory treatments." The Lancet Infectious Diseases 20.4 (2020): 400-402.
+
+**[7]** Chenthamarakshan, Vijil, et al. "Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models." arXiv preprint arXiv:2004.01215 (2020).
 
