@@ -1,4 +1,4 @@
-***-Please note that This table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title_.**
+***_Please note that This table is being populated. If anyone interested for their paper to be included in this community resource, please send us your paper title_.**
 
 
 **Review of Text data mining Research**
