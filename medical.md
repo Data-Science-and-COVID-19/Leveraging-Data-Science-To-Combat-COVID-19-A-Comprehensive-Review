@@ -15,13 +15,13 @@
 [Gozes et al.](https://arxiv.org/pdf/2004.02640) [11]|Chest CT scans|Used UNet for lung segmentation, ResNet for 2D slice classificationand fine grain localisation for detection of infected regions in lungs.|
 [Asnaui et al.](https://arxiv.org/pdf/2003.14363) [12]|Chest X-raysand CT images|Various CNN-based models used for binary classification inCOVID-19 detection on pneumonia affected X-ray and CT images.|
 [Ezz et al.](https://arxiv.org/pdf/2003.11055) [13]|Chest X-rays|Introduced COVIDX-Net, which includes seven different CNNmodels for classification of COVID-19 infected X-rays.|
+[Linda et al.](https://arxiv.org/pdf/2003.09871) [14]|Chest X-rays|Open source solution (COVID-Net) using Resnet, which detects COVID-19.| 
 
 
 
 
 
-
-References:
+**References**:
 
 **[1]** Wang, Shuai, et al. "A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)." medRxiv (2020).
 
@@ -48,6 +48,8 @@ References:
 **[12]** Asnaoui, Khalid El, Youness Chawki, and Ali Idri. "Automated Methods for Detection and Classification Pneumonia based on X-Ray Images Using Deep Learning." arXiv preprint arXiv:2003.14363 (2020).
 
 **[13]** Hemdan, Ezz El-Din, Marwa A. Shouman, and Mohamed Esmail Karar. "COVIDX-Net: A framework of deep learning classifiers to diagnose COVID-19 in x-ray images." arXiv preprint arXiv:2003.11055 (2020).
+
+**[14]** Wang, Linda, and Alexander Wong. "COVID-Net: A tailored deep convolutional neural network design for detection of COVID-19 cases from chest radiography images." arXiv preprint arXiv:2003.09871 (2020).
 
 
 
