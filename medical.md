@@ -1,5 +1,5 @@
-| Authors | Modality/Data Type | Technique | Methodology|
-| :---         |     :---      |          :--- | :--- |
+| Authors |Data Type | Methodology|
+| :---  | :--- | :--- |
 
 
 This table is being populated
