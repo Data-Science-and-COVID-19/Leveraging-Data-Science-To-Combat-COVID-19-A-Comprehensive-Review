@@ -14,6 +14,7 @@
 References:
 
 [1] Wang, Shuai, et al. "A deep learning algorithm using CT images to screen for Corona Virus Disease (COVID-19)." medRxiv (2020).
+
 [2]Xu, Xiaowei, et al. "Deep learning system to screen coronavirus disease 2019 pneumonia." arXiv preprint arXiv:2002.09334 (2020).
 
 
