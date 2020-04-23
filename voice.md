@@ -7,3 +7,16 @@
 
 | Authors |Data Type | Methodology|
 | :---  | :--- | :--- |
+|Imran et al. [1]|cough recordings|The AI4COVID-19 app requires 2-second cough recordings of the
+subject. By analyzing the cough samples through an AI engine running in the cloud, the app returns
+a preliminary diagnosis within a minute|
+
+
+
+
+
+
+
+**References**
+
+**[1]** Imran, Ali, Iryna Posokhova, Haneya N. Qureshi, Usama Masood, Sajid Riaz, Kamran Ali, Charles N. John, and Muhammad Nabeel. "AI4COVID-19: AI Enabled Preliminary Diagnosis for COVID-19 from Cough Samples via an App." arXiv preprint arXiv:2004.01275 (2020).
