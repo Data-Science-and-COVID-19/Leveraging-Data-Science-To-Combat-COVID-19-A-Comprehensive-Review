@@ -7,7 +7,7 @@
 
 | Authors |Data Type | Methodology|
 | :---  | :--- | :--- |
-|Imran et al. [1]|cough recordings|The AI4COVID-19 app is developed that requires 2-second cough recordings of the subject and provides  diagnosis within a minute by analyzing the cough samples through an AI engine|
+|[Imran et al.](https://arxiv.org/pdf/2004.01275.pdf) [1]|cough recordings|The AI4COVID-19 app is developed that requires 2-second cough recordings of the subject and provides  diagnosis within a minute by analyzing the cough samples through an AI engine|
 
 
 
